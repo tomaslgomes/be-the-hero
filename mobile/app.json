@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Be The Hero",
+    "slug": "bethehero",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_bethehero.png",
+    "splash": {
+      "image": "./assets/splash_bethehero.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E02041"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/icon_bethehero.png"
+    }
+  }
+}
